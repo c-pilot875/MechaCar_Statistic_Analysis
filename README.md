@@ -1,6 +1,13 @@
 # MechaCar_Statistic_Analysis
 
+Programs used:
 R and Statistics
+
+File Reference:
+MechaCarChallenge_script.R
+MechaCar_mpg.csv
+Suspension_Coil.csv
+
 
 ## Overview
 
@@ -10,12 +17,13 @@ R and Statistics
 
 ## Predicitng MPG using Linear Regression
 
-Description
-[insert sample]
+Using the MechaCar mpg dataset containing miles per gallon on prototypes, linear regression was calculated using R.
+Results
+
 
 ## Summary of Linear Regression
 Description
-[insert sample]
+
 
 ### Findings
 1.

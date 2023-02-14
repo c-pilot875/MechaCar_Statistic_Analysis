@@ -83,8 +83,8 @@ Current statistics on vehicle collisions are on the rise with thousands of drive
 An evaluation on MechaCar's prototype crash tests in relation to vehicle size should be conducted using the two most common collision scenarios (side-impact and rear-end). Measurements of the impacted white-body crumple zones should be taken to compare with original vehicle length, while monitoring ATD (test dummy) impactions.
 
 ## Null and Alternate Hypothesis
-H0: MechaCar's prototypes of the same vehicle length as competitors hold similar crash test ratings
-HA: MechaCar's prototypes of the same vehicle length as competitors are statistically above or below the crash test ratings of competitors
+* H0: MechaCar's prototypes of the same vehicle length as competitors hold similar crash test ratings
+* HA: MechaCar's prototypes of the same vehicle length as competitors are statistically above or below the crash test ratings of competitors
 
 ## Statistical Test Used
 
